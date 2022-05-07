@@ -1,10 +1,10 @@
 # Hi there! My name is Drew Kristensen!
 
-### I'm a recent Master's Graduate from the University of Montreal living in Seattle, Washington!
+### I'm Research and Development Engineer working at Heartdub and living in Seattle, Washington!
 - :pencil: I'm currently working on building a MERN stack website as well as investigating a novel regularization tehcnique for neural networks!
 - :brain: I’m interested in Reinforcement Learning specifically, and Machine Learning more generally! 
 - :seedling: I’m currently learning MERN stack development and anything to do with Reinforcement Learning that I can find!
-- :mag: I’m currently looking for a job in the Seattle are in the Machine Learning industry!
+- :mag: I’m working on so many things right now its hard to keep straight, but the comonality is I'm doing a lot of learning!
 - :zap: Fun fact about me: I love both playing and watching hockey (even if I still can't stand up well on skates :sweat_smile:). Also I'm still a total novice, but I love keeping all my indoor houseplants!
 
 
