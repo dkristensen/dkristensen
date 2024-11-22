@@ -1,11 +1,11 @@
 # Hi there! My name is Drew Kristensen!
 
-### I'm Research and Development Engineer working at Heartdub and living in Seattle, Washington!
-- :pencil: I'm currently working on building a MERN stack website as well as investigating a novel regularization tehcnique for neural networks!
+### I'm the co-founder and CTO of [2nd Chair](https://2ndchair.ai)!
+- :pencil: I'm currently working on building out capabilties for 2nd Chair's AI, David, to make them the most helpful legal assistant attorneys and law school students could have!
 - :brain: I’m interested in Reinforcement Learning specifically, and Machine Learning more generally! 
-- :seedling: I’m currently learning MERN stack development and anything to do with Reinforcement Learning that I can find!
+- :seedling: I've learned a ton about NLP - especially LLMs - in the last year and a half from work, and love staying up to date on advanced methods surrounding information retrieval and agentic orchestration.
 - :mag: I’m working on so many things right now its hard to keep straight, but the comonality is I'm doing a lot of learning!
-- :zap: Fun fact about me: I love both playing and watching hockey (even if I still can't stand up well on skates :sweat_smile:). Also I'm still a total novice, but I love keeping all my indoor houseplants!
+- :zap: Fun fact about me: I love both playing and watching hockey (even if I still can't stand up well on skates :sweat_smile:). My two favorite teams are the Montreal Canadiens and the Seattle Kraken - so if you know anything about the NHL, you'll know I *really* know how to pick painful teams to root for :see_no_evil:
 
 
 ### Links to me:
@@ -19,19 +19,19 @@
 
 <img align="left" title="VSCode" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"/>
 <img align="left" title="PyTorch" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
-<img align="left" title="TensorFlow" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" title="Gym" height="32px" width="32px" src="https://gym.openai.com/assets/dist/home/footer/home-cta-d0fb5e0574.svg"/>
-<img align="left" title="Flask" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg"/>
+<img align="left" title="FastAPI" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fastapi/fastapi-original.svg"/>
 <img align="left" title="NodeJS" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"/>
-<img align="left" title="MongoDB" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg"/>
+<img align="left" title="SvelteKit" height="32px" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg"/>
+<img align="left" title="Docker" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg"/>
+<img align="left" title="PostgreSQL" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg"/>
 <img align="left" title="AWS" height="32px" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <br/>
 
 ### My Languages:
 
 <img align="left" title="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg"/>
+<img align="left" title="C#" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-plain.svg"/>
 <img align="left" title="Java" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-plain.svg"/>
-<img align="left" title="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" title="R" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg"/>
 <img align="left" title="HTML" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg"/>
 <img align="left" title="CSS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg"/>
